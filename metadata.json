@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Cheerful",
+  "description": "Portofolio web pribadi interaktif dengan desain penuh warna, bertema ceria (cheerful), galeri proyek yang dinamis, bento-grid profil diri, dan formulir kontak responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
